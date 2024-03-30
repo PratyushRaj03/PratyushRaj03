@@ -1,3 +1,4 @@
+![logo](https://github.com/PratyushRaj03/PratyushRaj03/blob/main/Github-Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Pratyush Raj Srivastava</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
